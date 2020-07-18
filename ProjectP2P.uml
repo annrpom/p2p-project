@@ -1,0 +1,587 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>HistoryMenu</OriginalElement>
+  <nodes>
+    <node x="3331.8601886209035" y="1399.5">SearchMenu.SortLowHigh</node>
+    <node x="4378.8601886209035" y="1387.5">StoreMenu.ViewProduct</node>
+    <node x="4180.663930761701" y="687.5">StoreMenu</node>
+    <node x="1376.0" y="537.0">Product</node>
+    <node x="567.0" y="617.5">History</node>
+    <node x="136.75" y="1295.0">StoreFront</node>
+    <node x="4037.8601886209035" y="1399.5">SearchMenu.Filter20</node>
+    <node x="5680.6101886209035" y="687.5">MainMenu</node>
+    <node x="5150.155614177489" y="664.0">HistoryMenu</node>
+    <node x="5140.1101886209035" y="1399.5">MainMenu.GoToInbox</node>
+    <node x="6715.35606060606" y="675.5">UserMenu</node>
+    <node x="6488.1101886209035" y="1399.5">UserMenu.SendMessage</node>
+    <node x="4199.8601886209035" y="1387.5">SearchMenu.ViewUser</node>
+    <node x="5641.1101886209035" y="1399.5">MainMenu.BrowseProducts</node>
+    <node x="3495.8601886209035" y="1399.5">SearchMenu.SearchAgain</node>
+    <node x="2057.916666666667" y="1399.5">LoginMenu.Close</node>
+    <node x="2843.8601886209035" y="1399.5">SearchMenu.SortHighLow</node>
+    <node x="764.3601886209035" y="128.0">java.io.Serializable</node>
+    <node x="3394.6101886209035" y="652.5">SearchMenu</node>
+    <node x="7182.655614177489" y="675.5">ProductMenu</node>
+    <node x="6986.1101886209035" y="1399.5">ProductMenu.Purchase</node>
+    <node x="2519.8601886209035" y="1399.5">LoginMenu.Login</node>
+    <node x="6659.1101886209035" y="1399.5">UserMenu.BlockUser</node>
+    <node x="2199.8305974283676" y="687.5">LoginMenu</node>
+    <node x="2450.663930761701" y="675.5">MessageMenu</node>
+    <node x="2681.8601886209035" y="1399.5">MessageMenu.ReplyTo</node>
+    <node x="1071.0" y="571.5">User</node>
+    <node x="818.0" y="618.0">Message</node>
+    <node x="5302.1101886209035" y="1399.5">MainMenu.ViewHistory</node>
+    <node x="6313.1101886209035" y="1399.5">UserMenu.FriendRequest</node>
+    <node x="4968.1101886209035" y="1387.5">HistoryMenu.RateUser</node>
+    <node x="7148.1101886209035" y="1399.5">InboxMenu.SendMessage</node>
+    <node x="6821.1101886209035" y="1399.5">UserMenu.UnblockUser</node>
+    <node x="6151.1101886209035" y="1399.5">MainMenu.SellProduct</node>
+    <node x="3820.8601886209035" y="1387.5">SearchMenu.BuyProduct</node>
+    <node x="283.0" y="676.0">P2Papp</node>
+    <node x="4777.6101886209035" y="0.0">Menu</node>
+    <node x="1369.7134843331291" y="127.0">Searchable</node>
+    <node x="4590.8601886209035" y="1399.5">PurchaseMenu.ConfirmPurchase</node>
+    <node x="0.0" y="583.0">Inbox</node>
+    <node x="2357.8601886209035" y="1399.5">LoginMenu.Register</node>
+    <node x="7506.655614177489" y="1387.5">InboxMenu.ViewMessage</node>
+    <node x="3169.8601886209035" y="1399.5">SearchMenu.Filter50</node>
+    <node x="1178.0" y="1399.5">User.GoToProfile</node>
+    <node x="5827.1101886209035" y="1399.5">MainMenu.Search</node>
+    <node x="4784.8601886209035" y="1399.5">PurchaseMenu.goBack2</node>
+    <node x="7464.85606060606" y="675.5">InboxMenu</node>
+    <node x="1880.0" y="1399.5">Session.GoBack</node>
+    <node x="4550.6101886209035" y="675.5">Command</node>
+    <node x="5989.1101886209035" y="1399.5">MainMenu.SignOut</node>
+    <node x="3007.8601886209035" y="1399.5">SearchMenu.SignOut</node>
+    <node x="5464.1101886209035" y="1399.5">MainMenu.DeleteAccount</node>
+    <node x="4902.155614177489" y="675.5">PurchaseMenu</node>
+    <node x="3658.8601886209035" y="1399.5">SearchMenu.Filter5</node>
+    <node x="1770.0" y="399.0">Session</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="PurchaseMenu.goBack2" target="Command">
+      <point x="-35.5" y="-39.5" />
+      <point x="4820.3601886209035" y="1255.0" />
+      <point x="4639.1707946815095" y="1255.0" />
+      <point x="5.0606060606060055" y="51.5" />
+    </edge>
+    <edge source="InboxMenu.SendMessage" target="Command">
+      <point x="-37.75" y="-39.5" />
+      <point x="7185.8601886209035" y="1085.0" />
+      <point x="4710.0192795299945" y="1085.0" />
+      <point x="75.90909090909099" y="51.5" />
+    </edge>
+    <edge source="SearchMenu.ViewUser" target="SearchMenu">
+      <point x="-39.75" y="-51.5" />
+      <point x="4239.6101886209035" y="1085.0" />
+      <point x="3653.387966398682" y="1085.0" />
+      <point x="121.77777777777828" y="74.5" />
+    </edge>
+    <edge source="InboxMenu.ViewMessage" target="InboxMenu">
+      <point x="52.0" y="-51.5" />
+      <point x="7662.655614177489" y="1275.0" />
+      <point x="7592.35606060606" y="1275.0" />
+      <point x="42.5" y="51.5" />
+    </edge>
+    <edge source="UserMenu.BlockUser" target="UserMenu">
+      <point x="35.5" y="-39.5" />
+      <point x="6765.6101886209035" y="1275.0" />
+      <point x="6821.60606060606" y="1275.0" />
+      <point x="21.25" y="51.5" />
+    </edge>
+    <edge source="User" target="java.io.Serializable">
+      <point x="-71.25" y="-155.5" />
+      <point x="1142.25" y="369.0" />
+      <point x="877.5030457637608" y="369.0" />
+      <point x="41.14285714285711" y="26.5" />
+    </edge>
+    <edge source="PurchaseMenu" target="Menu">
+      <point x="0.0" y="-51.5" />
+      <point x="5004.655614177489" y="379.0" />
+      <point x="4942.760188620903" y="379.0" />
+      <point x="-18.350000000000364" y="154.5" />
+    </edge>
+    <edge source="UserMenu.FriendRequest" target="UserMenu">
+      <point x="38.75" y="-39.5" />
+      <point x="6429.3601886209035" y="1255.0" />
+      <point x="6736.60606060606" y="1255.0" />
+      <point x="-63.75" y="51.5" />
+    </edge>
+    <edge source="SearchMenu.ViewUser" target="Command">
+      <point x="39.75" y="-51.5" />
+      <point x="4319.1101886209035" y="1265.0" />
+      <point x="4623.9889764996915" y="1265.0" />
+      <point x="-10.121212121212011" y="51.5" />
+    </edge>
+    <edge source="InboxMenu.ViewMessage" target="Command">
+      <point x="-52.0" y="-51.5" />
+      <point x="7558.655614177489" y="1075.0" />
+      <point x="4715.0798855906005" y="1075.0" />
+      <point x="80.969696969697" y="51.5" />
+    </edge>
+    <edge source="InboxMenu.SendMessage" target="InboxMenu">
+      <point x="37.75" y="-39.5" />
+      <point x="7261.3601886209035" y="1275.0" />
+      <point x="7507.35606060606" y="1275.0" />
+      <point x="-42.5" y="51.5" />
+    </edge>
+    <edge source="InboxMenu" target="Menu">
+      <point x="0.0" y="-51.5" />
+      <point x="7549.85606060606" y="329.0" />
+      <point x="5126.260188620903" y="329.0" />
+      <point x="165.14999999999964" y="154.5" />
+    </edge>
+    <edge source="User.GoToProfile" target="User">
+      <point x="-35.5" y="-39.5" />
+      <point x="0.0" y="155.5" />
+    </edge>
+    <edge source="Message" target="java.io.Serializable">
+      <point x="0.0" y="-109.0" />
+      <point x="934.5" y="379.0" />
+      <point x="856.9316171923319" y="379.0" />
+      <point x="20.571428571428555" y="26.5" />
+    </edge>
+    <edge source="MainMenu.DeleteAccount" target="MainMenu">
+      <point x="39.25" y="-39.5" />
+      <point x="5581.8601886209035" y="1275.0" />
+      <point x="5741.32447433519" y="1275.0" />
+      <point x="-24.28571428571422" y="39.5" />
+    </edge>
+    <edge source="HistoryMenu" target="Menu">
+      <point x="0.0" y="-63.0" />
+      <point x="5269.655614177489" y="369.0" />
+      <point x="4979.460188620904" y="369.0" />
+      <point x="18.350000000000364" y="154.5" />
+    </edge>
+    <edge source="MainMenu.ViewHistory" target="MainMenu">
+      <point x="35.5" y="-39.5" />
+      <point x="5408.6101886209035" y="1265.0" />
+      <point x="5717.038760049475" y="1265.0" />
+      <point x="-48.57142857142844" y="39.5" />
+    </edge>
+    <edge source="SearchMenu.Filter50" target="Command">
+      <point x="35.5" y="-39.5" />
+      <point x="3276.3601886209035" y="1205.0" />
+      <point x="4593.6253401360555" y="1205.0" />
+      <point x="-40.484848484848044" y="51.5" />
+    </edge>
+    <edge source="ProductMenu" target="Menu">
+      <point x="0.0" y="-51.5" />
+      <point x="7280.155614177489" y="339.0" />
+      <point x="5089.560188620903" y="339.0" />
+      <point x="128.44999999999982" y="154.5" />
+    </edge>
+    <edge source="SearchMenu.SignOut" target="Command">
+      <point x="35.5" y="-39.5" />
+      <point x="3114.3601886209035" y="1195.0" />
+      <point x="4588.5647340754485" y="1195.0" />
+      <point x="-45.54545454545496" y="51.5" />
+    </edge>
+    <edge source="Product" target="java.io.Serializable">
+      <point x="-93.49999999999977" y="-190.0" />
+      <point x="1469.5000000000005" y="359.0" />
+      <point x="898.0744743351893" y="359.0" />
+      <point x="61.71428571428578" y="26.5" />
+    </edge>
+    <edge source="SearchMenu.Filter5" target="SearchMenu">
+      <point x="-35.5" y="-39.5" />
+      <point x="3694.3601886209035" y="1115.0" />
+      <point x="3562.054633065348" y="1115.0" />
+      <point x="30.444444444444343" y="74.5" />
+    </edge>
+    <edge source="MainMenu.SignOut" target="MainMenu">
+      <point x="35.5" y="-39.5" />
+      <point x="6095.6101886209035" y="1165.0" />
+      <point x="5814.181617192332" y="1165.0" />
+      <point x="48.57142857142844" y="39.5" />
+    </edge>
+    <edge source="UserMenu" target="Menu">
+      <point x="0.0" y="-51.5" />
+      <point x="6800.35606060606" y="349.0" />
+      <point x="5052.8601886209035" y="349.0" />
+      <point x="91.75" y="154.5" />
+    </edge>
+    <edge source="LoginMenu.Register" target="Command">
+      <point x="35.5" y="-39.5" />
+      <point x="2464.3601886209035" y="1155.0" />
+      <point x="4568.3223098330245" y="1155.0" />
+      <point x="-65.78787878787898" y="51.5" />
+    </edge>
+    <edge source="SearchMenu.Filter5" target="Command">
+      <point x="35.5" y="-39.5" />
+      <point x="3765.3601886209035" y="1235.0" />
+      <point x="4608.8071583178735" y="1235.0" />
+      <point x="-25.303030303030027" y="51.5" />
+    </edge>
+    <edge source="MessageMenu" target="Menu">
+      <point x="0.0" y="-51.5" />
+      <point x="2556.163930761701" y="359.0" />
+      <point x="4832.660188620904" y="359.0" />
+      <point x="-128.44999999999982" y="154.5" />
+    </edge>
+    <edge source="UserMenu.SendMessage" target="Command">
+      <point x="-37.75" y="-39.5" />
+      <point x="6525.8601886209035" y="1125.0" />
+      <point x="4689.7768552875705" y="1125.0" />
+      <point x="55.66666666666697" y="51.5" />
+    </edge>
+    <edge source="MainMenu.BrowseProducts" target="MainMenu">
+      <point x="41.5" y="-39.5" />
+      <point x="0.0" y="39.5" />
+    </edge>
+    <edge source="HistoryMenu.RateUser" target="Command">
+      <point x="-38.0" y="-51.5" />
+      <point x="5006.1101886209035" y="1245.0" />
+      <point x="4644.2314007421155" y="1245.0" />
+      <point x="10.121212121212011" y="51.5" />
+    </edge>
+    <edge source="PurchaseMenu.goBack2" target="PurchaseMenu">
+      <point x="35.5" y="-39.5" />
+      <point x="4891.3601886209035" y="1275.0" />
+      <point x="5055.905614177489" y="1275.0" />
+      <point x="51.25" y="51.5" />
+    </edge>
+    <edge source="MainMenu.ViewHistory" target="Command">
+      <point x="-35.5" y="-39.5" />
+      <point x="5337.6101886209035" y="1225.0" />
+      <point x="4654.3526128633275" y="1225.0" />
+      <point x="20.242424242424022" y="51.5" />
+    </edge>
+    <edge source="UserMenu.FriendRequest" target="Command">
+      <point x="-38.75" y="-39.5" />
+      <point x="6351.8601886209035" y="1135.0" />
+      <point x="4684.7162492269645" y="1135.0" />
+      <point x="50.606060606060964" y="51.5" />
+    </edge>
+    <edge source="LoginMenu.Login" target="LoginMenu">
+      <point x="-35.5" y="-39.5" />
+      <point x="2555.3601886209035" y="1105.0" />
+      <point x="2341.497264095034" y="1105.0" />
+      <point x="56.666666666666515" y="39.5" />
+    </edge>
+    <edge source="Session.GoBack" target="Session">
+      <point x="-35.5" y="-39.5" />
+      <point x="0.0" y="328.0" />
+    </edge>
+    <edge source="ProductMenu.Purchase" target="Command">
+      <point x="-35.5" y="-39.5" />
+      <point x="7021.6101886209035" y="1095.0" />
+      <point x="4704.9586734693885" y="1095.0" />
+      <point x="70.84848484848499" y="51.5" />
+    </edge>
+    <edge source="SearchMenu.SortHighLow" target="Command">
+      <point x="36.0" y="-39.5" />
+      <point x="2951.8601886209035" y="1185.0" />
+      <point x="4583.5041280148425" y="1185.0" />
+      <point x="-50.606060606060964" y="51.5" />
+    </edge>
+    <edge source="UserMenu.BlockUser" target="Command">
+      <point x="-35.5" y="-39.5" />
+      <point x="6694.6101886209035" y="1115.0" />
+      <point x="4694.8374613481765" y="1115.0" />
+      <point x="60.727272727272975" y="51.5" />
+    </edge>
+    <edge source="MessageMenu.ReplyTo" target="MessageMenu">
+      <point x="-35.5" y="-39.5" />
+      <point x="2717.3601886209035" y="1095.0" />
+      <point x="2556.163930761701" y="1095.0" />
+      <point x="0.0" y="51.5" />
+    </edge>
+    <edge source="StoreMenu.ViewProduct" target="Command">
+      <point x="48.0" y="-51.5" />
+      <point x="4522.8601886209035" y="1275.0" />
+      <point x="4629.0495825602975" y="1275.0" />
+      <point x="-5.0606060606060055" y="51.5" />
+    </edge>
+    <edge source="SearchMenu.BuyProduct" target="SearchMenu">
+      <point x="-49.25" y="-51.5" />
+      <point x="3870.1101886209035" y="1105.0" />
+      <point x="3592.499077509792" y="1105.0" />
+      <point x="60.88888888888869" y="74.5" />
+    </edge>
+    <edge source="StoreMenu.ViewProduct" target="StoreMenu">
+      <point x="-48.0" y="-51.5" />
+      <point x="4426.8601886209035" y="1115.0" />
+      <point x="4265.663930761701" y="1115.0" />
+      <point x="0.0" y="39.5" />
+    </edge>
+    <edge source="SearchMenu.Filter20" target="SearchMenu">
+      <point x="-35.5" y="-39.5" />
+      <point x="4073.3601886209035" y="1095.0" />
+      <point x="3622.9435219542365" y="1095.0" />
+      <point x="91.33333333333303" y="74.5" />
+    </edge>
+    <edge source="MainMenu.GoToInbox" target="MainMenu">
+      <point x="35.5" y="-39.5" />
+      <point x="5246.6101886209035" y="1255.0" />
+      <point x="5692.75304576376" y="1255.0" />
+      <point x="-72.85714285714266" y="39.5" />
+    </edge>
+    <edge source="LoginMenu.Close" target="Command">
+      <point x="35.5" y="-39.5" />
+      <point x="2164.416666666667" y="1145.0" />
+      <point x="4563.2617037724185" y="1145.0" />
+      <point x="-70.84848484848499" y="51.5" />
+    </edge>
+    <edge source="Product" target="Searchable">
+      <point x="93.50000000000023" y="-190.0" />
+      <point x="1656.5000000000005" y="379.0" />
+      <point x="1518.9634843331291" y="379.0" />
+      <point x="49.75" y="27.5" />
+    </edge>
+    <edge source="UserMenu.UnblockUser" target="UserMenu">
+      <point x="36.25" y="-39.5" />
+      <point x="6929.8601886209035" y="1275.0" />
+      <point x="6864.10606060606" y="1275.0" />
+      <point x="63.75" y="51.5" />
+    </edge>
+    <edge source="SearchMenu.SortLowHigh" target="SearchMenu">
+      <point x="-36.0" y="-39.5" />
+      <point x="3367.8601886209035" y="1115.0" />
+      <point x="3501.165744176459" y="1115.0" />
+      <point x="-30.444444444444343" y="74.5" />
+    </edge>
+    <edge source="MainMenu" target="Menu">
+      <point x="0.0" y="-39.5" />
+      <point x="5765.6101886209035" y="359.0" />
+      <point x="5016.160188620904" y="359.0" />
+      <point x="55.05000000000018" y="154.5" />
+    </edge>
+    <edge source="SearchMenu.SearchAgain" target="Command">
+      <point x="35.75" y="-39.5" />
+      <point x="3603.1101886209035" y="1225.0" />
+      <point x="4603.7465522572675" y="1225.0" />
+      <point x="-30.363636363636033" y="51.5" />
+    </edge>
+    <edge source="Session.GoBack" target="Command">
+      <point x="35.5" y="-39.5" />
+      <point x="1986.5" y="1135.0" />
+      <point x="4558.2010977118125" y="1135.0" />
+      <point x="-75.90909090909099" y="51.5" />
+    </edge>
+    <edge source="SearchMenu.SearchAgain" target="SearchMenu">
+      <point x="-35.75" y="-39.5" />
+      <point x="0.0" y="74.5" />
+    </edge>
+    <edge source="P2Papp" target="java.io.Serializable">
+      <point x="0.0" y="-51.0" />
+      <point x="415.0" y="369.0" />
+      <point x="815.7887600494751" y="369.0" />
+      <point x="-20.571428571428555" y="26.5" />
+    </edge>
+    <edge source="StoreFront" target="P2Papp">
+      <point x="103.5" y="-144.0" />
+      <point x="447.25" y="1275.0" />
+      <point x="415.0" y="1275.0" />
+      <point x="0.0" y="51.0" />
+    </edge>
+    <edge source="SearchMenu.Filter20" target="Command">
+      <point x="35.5" y="-39.5" />
+      <point x="4144.3601886209035" y="1255.0" />
+      <point x="4618.9283704390855" y="1255.0" />
+      <point x="-15.181818181818016" y="51.5" />
+    </edge>
+    <edge source="MainMenu.SellProduct" target="Command">
+      <point x="-35.5" y="-39.5" />
+      <point x="6186.6101886209035" y="1155.0" />
+      <point x="4679.6556431663585" y="1155.0" />
+      <point x="45.54545454545496" y="51.5" />
+    </edge>
+    <edge source="HistoryMenu.RateUser" target="HistoryMenu">
+      <point x="38.0" y="-51.5" />
+      <point x="5082.1101886209035" y="1245.0" />
+      <point x="5269.655614177489" y="1245.0" />
+      <point x="0.0" y="63.0" />
+    </edge>
+    <edge source="SearchMenu.BuyProduct" target="Command">
+      <point x="49.25" y="-51.5" />
+      <point x="3968.6101886209035" y="1245.0" />
+      <point x="4613.8677643784795" y="1245.0" />
+      <point x="-20.242424242424022" y="51.5" />
+    </edge>
+    <edge source="StoreMenu" target="Menu">
+      <point x="0.0" y="-39.5" />
+      <point x="4265.663930761701" y="379.0" />
+      <point x="4906.060188620903" y="379.0" />
+      <point x="-55.05000000000018" y="154.5" />
+    </edge>
+    <edge source="MainMenu.GoToInbox" target="Command">
+      <point x="-35.5" y="-39.5" />
+      <point x="5175.6101886209035" y="1235.0" />
+      <point x="4649.2920068027215" y="1235.0" />
+      <point x="15.181818181818016" y="51.5" />
+    </edge>
+    <edge source="ProductMenu.Purchase" target="ProductMenu">
+      <point x="35.5" y="-39.5" />
+      <point x="7092.6101886209035" y="1265.0" />
+      <point x="7280.155614177489" y="1265.0" />
+      <point x="0.0" y="51.5" />
+    </edge>
+    <edge source="StoreFront" target="java.io.Serializable">
+      <point x="-103.5" y="-144.0" />
+      <point x="240.25" y="1275.0" />
+      <point x="272.5" y="1275.0" />
+      <point x="272.5" y="359.0" />
+      <point x="795.2173314780462" y="359.0" />
+      <point x="-41.14285714285734" y="26.5" />
+    </edge>
+    <edge source="PurchaseMenu.ConfirmPurchase" target="Command">
+      <point x="-43.25" y="-39.5" />
+      <point x="0.0" y="51.5" />
+    </edge>
+    <edge source="LoginMenu.Login" target="Command">
+      <point x="35.5" y="-39.5" />
+      <point x="2626.3601886209035" y="1165.0" />
+      <point x="4573.3829158936305" y="1165.0" />
+      <point x="-60.727272727272975" y="51.5" />
+    </edge>
+    <edge source="MessageMenu.ReplyTo" target="Command">
+      <point x="35.5" y="-39.5" />
+      <point x="2788.3601886209035" y="1175.0" />
+      <point x="4578.4435219542365" y="1175.0" />
+      <point x="-55.66666666666697" y="51.5" />
+    </edge>
+    <edge source="MainMenu.Search" target="MainMenu">
+      <point x="35.50000000000023" y="-39.5" />
+      <point x="5933.6101886209035" y="1185.0" />
+      <point x="5789.895902906617" y="1185.0" />
+      <point x="24.28571428571422" y="39.5" />
+    </edge>
+    <edge source="MainMenu.Search" target="Command">
+      <point x="-35.49999999999977" y="-39.5" />
+      <point x="5862.6101886209035" y="1195.0" />
+      <point x="4669.5344310451455" y="1195.0" />
+      <point x="35.42424242424204" y="51.5" />
+    </edge>
+    <edge source="SearchMenu.SortLowHigh" target="Command">
+      <point x="36.0" y="-39.5" />
+      <point x="3439.8601886209035" y="1215.0" />
+      <point x="4598.6859461966615" y="1215.0" />
+      <point x="-35.42424242424204" y="51.5" />
+    </edge>
+    <edge source="History" target="java.io.Serializable">
+      <point x="0.0" y="-109.5" />
+      <point x="682.5" y="379.0" />
+      <point x="836.3601886209035" y="379.0" />
+      <point x="0.0" y="26.5" />
+    </edge>
+    <edge source="UserMenu.SendMessage" target="UserMenu">
+      <point x="37.75" y="-39.5" />
+      <point x="6601.3601886209035" y="1265.0" />
+      <point x="6779.10606060606" y="1265.0" />
+      <point x="-21.25" y="51.5" />
+    </edge>
+    <edge source="LoginMenu" target="Menu">
+      <point x="0.0" y="-39.5" />
+      <point x="2284.8305974283676" y="349.0" />
+      <point x="4795.960188620904" y="349.0" />
+      <point x="-165.14999999999964" y="154.5" />
+    </edge>
+    <edge source="UserMenu.UnblockUser" target="Command">
+      <point x="-36.25" y="-39.5" />
+      <point x="6857.3601886209035" y="1105.0" />
+      <point x="4699.8980674087825" y="1105.0" />
+      <point x="65.78787878787898" y="51.5" />
+    </edge>
+    <edge source="LoginMenu.Register" target="LoginMenu">
+      <point x="-35.5" y="-39.5" />
+      <point x="2393.3601886209035" y="1115.0" />
+      <point x="2284.8305974283676" y="1115.0" />
+      <point x="0.0" y="39.5" />
+    </edge>
+    <edge source="MainMenu.SellProduct" target="MainMenu">
+      <point x="35.5" y="-39.5" />
+      <point x="6257.6101886209035" y="1145.0" />
+      <point x="5838.467331478047" y="1145.0" />
+      <point x="72.85714285714266" y="39.5" />
+    </edge>
+    <edge source="SearchMenu.SignOut" target="SearchMenu">
+      <point x="-35.5" y="-39.5" />
+      <point x="3043.3601886209035" y="1095.0" />
+      <point x="3440.2768552875705" y="1095.0" />
+      <point x="-91.33333333333303" y="74.5" />
+    </edge>
+    <edge source="LoginMenu.Close" target="LoginMenu">
+      <point x="-35.5" y="-39.5" />
+      <point x="2093.416666666667" y="1115.0" />
+      <point x="2228.163930761701" y="1115.0" />
+      <point x="-56.666666666666515" y="39.5" />
+    </edge>
+    <edge source="User.GoToProfile" target="Command">
+      <point x="35.5" y="-39.5" />
+      <point x="1284.5" y="1125.0" />
+      <point x="4553.1404916512065" y="1125.0" />
+      <point x="-80.969696969697" y="51.5" />
+    </edge>
+    <edge source="User" target="Searchable">
+      <point x="71.25" y="-155.5" />
+      <point x="1284.75" y="379.0" />
+      <point x="1419.4634843331291" y="379.0" />
+      <point x="-49.75" y="27.5" />
+    </edge>
+    <edge source="SearchMenu.SortHighLow" target="SearchMenu">
+      <point x="-36.0" y="-39.5" />
+      <point x="2879.8601886209035" y="1085.0" />
+      <point x="3409.832410843126" y="1085.0" />
+      <point x="-121.77777777777737" y="74.5" />
+    </edge>
+    <edge source="MainMenu.BrowseProducts" target="Command">
+      <point x="-41.5" y="-39.5" />
+      <point x="5682.6101886209035" y="1205.0" />
+      <point x="4664.4738249845395" y="1205.0" />
+      <point x="30.363636363636033" y="51.5" />
+    </edge>
+    <edge source="SearchMenu.Filter50" target="SearchMenu">
+      <point x="-35.5" y="-39.5" />
+      <point x="3205.3601886209035" y="1105.0" />
+      <point x="3470.721299732015" y="1105.0" />
+      <point x="-60.88888888888869" y="74.5" />
+    </edge>
+    <edge source="PurchaseMenu.ConfirmPurchase" target="PurchaseMenu">
+      <point x="43.25" y="-39.5" />
+      <point x="4720.6101886209035" y="1265.0" />
+      <point x="4953.405614177489" y="1265.0" />
+      <point x="-51.25" y="51.5" />
+    </edge>
+    <edge source="Inbox" target="java.io.Serializable">
+      <point x="0.0" y="-144.0" />
+      <point x="131.0" y="349.0" />
+      <point x="774.6459029066177" y="349.0" />
+      <point x="-61.71428571428578" y="26.5" />
+    </edge>
+    <edge source="MainMenu.DeleteAccount" target="Command">
+      <point x="-39.25" y="-39.5" />
+      <point x="5503.3601886209035" y="1215.0" />
+      <point x="4659.4132189239335" y="1215.0" />
+      <point x="25.303030303030027" y="51.5" />
+    </edge>
+    <edge source="MainMenu.SignOut" target="Command">
+      <point x="-35.5" y="-39.5" />
+      <point x="6024.6101886209035" y="1175.0" />
+      <point x="4674.595037105752" y="1175.0" />
+      <point x="40.48484848484895" y="51.5" />
+    </edge>
+    <edge source="SearchMenu" target="Menu">
+      <point x="0.0" y="-74.5" />
+      <point x="3531.6101886209035" y="369.0" />
+      <point x="4869.3601886209035" y="369.0" />
+      <point x="-91.75" y="154.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.2450819672131148" x="4349.157894736843" y="677.5864661654139" />
+  <SelectedNodes>
+    <node>HistoryMenu</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+    <Category>Properties</Category>
+    <Category>Inner Classes</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
